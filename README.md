@@ -24,18 +24,6 @@ Each row in the dataset represents one person who responded to the National 2009
 ## Performance Metric
 - The performance metric is the ROC AUC score for each target variable.
 
-## Submission Format
-- The submission format includes probabilities for both h1n1_vaccine and seasonal_vaccine.
-
-## Dataset
-- The dataset contains 36 columns, with the first column being a unique identifier and the remaining 35 columns representing features.
-
-## Example
-- A sample submission file and dataset are provided for reference.
-
-## Usage
-- Clone the repository and run the provided scripts to train and evaluate your models.
-
 ## Dependencies
 - Python 3.x
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
