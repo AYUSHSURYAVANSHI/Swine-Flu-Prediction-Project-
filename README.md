@@ -40,9 +40,6 @@ Each row in the dataset represents one person who responded to the National 2009
 - Python 3.x
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 
-## Authors
-- [Your Name](https://github.com/yourusername)
-
 ## License
 - This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
